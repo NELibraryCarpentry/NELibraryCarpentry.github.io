@@ -1,4 +1,4 @@
-theme: jekyll-theme-cayman
+theme: cayman
 title: New England Library Carpentry
 description: test description
 remote_theme: pages-themes/cayman@v0.2.0
