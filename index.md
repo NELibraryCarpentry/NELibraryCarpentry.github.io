@@ -23,6 +23,7 @@ Our parent organization is The Carpentries: https://carpentries.org
 We do not currently have a workshop scheduled. Contact us to schedule one for your organization today! 
 
 ## Past Workshops
+
 | Date | Link to Workshop |
 |------|------------------|
 | February 2022 | <a href="">View workshop page - link not found</a> |
