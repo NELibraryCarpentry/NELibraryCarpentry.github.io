@@ -23,12 +23,12 @@ Our parent organization is The Carpentries: https://carpentries.org
 We do not currently have a workshop scheduled. Contact us to schedule one for your organization today! 
 
 ## Past Workshops
-Date | Link to Workshop
------|-----------------
-February 2022 | <a href="">View workshop page - link not found</a>
-October 2021 | <a href="https://morskyjezek.github.io/2021-10-05-lelibrary-online/">View workshop page</a>
-April 2021 | <a href="">View workshop page - link not found</a>
-February 2020 | <a href="https://leblibrary.github.io/2020-02-03-lebanon/">View workshop page</a>
+| Date | Link to Workshop |
+|------|------------------|
+| February 2022 | <a href="">View workshop page - link not found</a> |
+| October 2021 | <a href="https://morskyjezek.github.io/2021-10-05-lelibrary-online/">View workshop page</a> |
+| April 2021 | <a href="">View workshop page - link not found</a> |
+| February 2020 | <a href="https://leblibrary.github.io/2020-02-03-lebanon/">View workshop page</a> |
 
 ## What do we teach?
 
