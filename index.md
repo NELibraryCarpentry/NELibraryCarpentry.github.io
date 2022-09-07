@@ -9,15 +9,15 @@ We're a group of New England library workers helping build confidence in tech to
 ## What is The Carpentries organization? 
 
 Library Carpentry workshops teach people working in library and information-related roles how to:
-* Cut through the jargon terms and phrases of software development and data science and apply concepts from these fields in library tasks;
-* Identify and use best practices in data structures;
-* Learn how to programmatically transform and map data from one form to another;
-* Work effectively with researchers, IT, and systems colleagues;
-* Automate repetitive, error prone tasks.”
+* Cut through the jargon terms and phrases of software development and data science and apply concepts from these fields in library tasks
+* Identify and use best practices in data structures
+* Learn how to programmatically transform and map data from one form to another
+* Work effectively with researchers, IT, and systems colleagues
+* Automate repetitive, error prone tasks
 
-We are the New England branch of the Library Carpentries: https://librarycarpentry.org/
+We are the New England branch of the Library Carpentries: https://librarycarpentry.org
 
-Our parent organization is The Carpentries: https://carpentries.org/
+Our parent organization is The Carpentries: https://carpentries.org
 
 ## What do we teach?
 
@@ -28,13 +28,17 @@ Our parent organization is The Carpentries: https://carpentries.org/
 * SQL	
 * Tidy Data
 
-You can view all of our lessons, as well as the lesson materials, here: https://librarycarpentry.org/lessons/ 
+You can view all of our lessons, as well as the lesson materials, here: https://librarycarpentry.org/lessons
 
 
 ## Upcoming Workshops
 We do not currently have a workshop scheduled. Contact us to schedule one for your organization today! 
 
 ## Past Workshops
+Workshop | Date
+---------|-----
+test | test2
+
 
 ## Contact Us
 Email us at <a href="mailto:nelc.instructors@gmail.com">nelc.instructors@gmail.com. 
