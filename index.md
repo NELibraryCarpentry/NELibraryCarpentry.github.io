@@ -19,18 +19,6 @@ We are the New England branch of the Library Carpentries: https://librarycarpent
 
 Our parent organization is The Carpentries: https://carpentries.org
 
-## What do we teach?
-
-* Introduction to Working with Data (Regular Expressions)
-* The UNIX Shell
-* OpenRefine
-* Introduction to Git	
-* SQL	
-* Tidy Data
-
-You can view all of our lessons, as well as the lesson materials, here: https://librarycarpentry.org/lessons
-
-
 ## Upcoming Workshops
 We do not currently have a workshop scheduled. Contact us to schedule one for your organization today! 
 
@@ -42,9 +30,20 @@ October 2021 | <a href="https://morskyjezek.github.io/2021-10-05-lelibrary-onlin
 April 2021 | <a href="">View workshop page - link not found</a>
 February 2020 | <a href="https://leblibrary.github.io/2020-02-03-lebanon/">View workshop page</a>
 
+## What do we teach?
+
+* Introduction to Working with Data (Regular Expressions)
+* The UNIX Shell
+* OpenRefine
+* Introduction to Git	
+* SQL	
+* Tidy Data
+
+You can view all of our lessons, as well as the lesson materials, here: https://librarycarpentry.org/lessons
+
 ## Contact Us
 Email us at <a href="mailto:nelc.instructors@gmail.com">nelc.instructors@gmail.com. 
   
-We'd love to help you get involved or hold a workshop for your organization!
+We'd love to help you get involved or hold a workshop for your library organization!
 
 
