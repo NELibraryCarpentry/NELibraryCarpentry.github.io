@@ -35,10 +35,12 @@ You can view all of our lessons, as well as the lesson materials, here: https://
 We do not currently have a workshop scheduled. Contact us to schedule one for your organization today! 
 
 ## Past Workshops
-Workshop | Date
----------|-----
-test | test2
-
+Date |  Link to Workshop
+-----|------------------
+February 2022 | <a href="">Workshop Page</a>
+October 2021 | <a href=""https://morskyjezek.github.io/2021-10-05-lelibrary-online/>Workshop page</a>
+April 2021 | <a href="">Workshop Page</a>
+February 2020 | <a href="https://leblibrary.github.io/2020-02-03-lebanon/">Workshop Page</a>
 
 ## Contact Us
 Email us at <a href="mailto:nelc.instructors@gmail.com">nelc.instructors@gmail.com. 
