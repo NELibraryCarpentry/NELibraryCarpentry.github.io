@@ -16,6 +16,7 @@ Library Carpentry workshops teach people working in library and information-rela
 * Automate repetitive, error prone tasks.”
 
 We are the New England branch of the Library Carpentries: https://librarycarpentry.org/
+
 Our parent organization is The Carpentries: https://carpentries.org/
 
 ## What do we teach?
