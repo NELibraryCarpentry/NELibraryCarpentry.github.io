@@ -1,6 +1,7 @@
 ---
 layout: default
 ---
+# New England Library Carpentry
 
 ## Our Mission
 We're a group of New England library workers helping build confidence in tech tools and literacy for public librarians using lessons from the Carpentries organization.
