@@ -44,12 +44,12 @@ You can view all of our lessons, as well as the lesson materials, here: https://
 
 ## Who are we?
 
-Jaki Frisina, Lebanon Public Libraries
-Ron Houk, Lebanon Public Libraries
-Chelsea Page, Nesmith Library
-Molly Driscoll, EBSCO
-Kevin French, GMILCS
-Sarah St. Martin, GMILCS
+* Jaki Frisina, Lebanon Public Libraries
+* Ron Houk, Lebanon Public Libraries
+* Chelsea Page, Nesmith Library
+* Molly Driscoll, EBSCO
+* Kevin French, GMILCS
+* Sarah St. Martin, GMILCS
 
 ## Contact Us
 Email us at <a href="mailto:nelc.instructors@gmail.com">nelc.instructors@gmail.com. 
