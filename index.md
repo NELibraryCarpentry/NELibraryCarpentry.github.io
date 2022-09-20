@@ -15,9 +15,9 @@ Library Carpentry workshops teach people working in library and information-rela
 * Work effectively with researchers, IT, and systems colleagues
 * Automate repetitive, error prone tasks
 
-We are the New England branch of the Library Carpentries: https://librarycarpentry.org
+We are a New England group of Carpentries-certified instructors, using the Library Carpentries lessons for our workshops: https://librarycarpentry.org
 
-Our parent organization is The Carpentries: https://carpentries.org
+We were formed by a grant from The Carpentries: https://carpentries.org
 
 ## Upcoming Workshops
 We do not currently have a workshop scheduled. Contact us to schedule one for your organization today! 
@@ -26,9 +26,9 @@ We do not currently have a workshop scheduled. Contact us to schedule one for yo
 
 | Date | Link to Workshop |
 |------|------------------|
-| February 2022 | <a href="">View workshop page - link not found</a> |
+| February 2022 | <a href="https://nelibrarycarpentry.github.io/2022-02-01-NHLCFebruary-online/">View workshop page</a> |
 | October 2021 | <a href="https://morskyjezek.github.io/2021-10-05-lelibrary-online/">View workshop page</a> |
-| April 2021 | <a href="">View workshop page - link not found</a> |
+| April 2021 | <a href="https://nelibrarycarpentry.github.io/2021-04-20-lelibrary-online/">View workshop page</a> |
 | February 2020 | <a href="https://leblibrary.github.io/2020-02-03-lebanon/">View workshop page</a> |
 
 ## What do we teach?
@@ -40,20 +40,20 @@ We do not currently have a workshop scheduled. Contact us to schedule one for yo
 * SQL	
 * Tidy Data
 
-You can view all of our lessons, as well as the lesson materials, here: https://librarycarpentry.org/lessons
+You can view all of the Library Carpentry lessons, as well as the lesson materials, here: https://librarycarpentry.org/lessons
 
 ## Who are we?
 
 * Jaki Frisina, Lebanon Public Libraries
 * Ron Houk, Lebanon Public Libraries
 * Chelsea Page, Nesmith Library
-* Molly Driscoll, EBSCO
-* Kevin French, GMILCS
-* Sarah St. Martin, GMILCS
+* Molly Driscoll, Folio Services, EBSCO
+* Kevin French, GMILCS, Inc
+* Sarah St. Martin, GMILCS, Inc
 
 ## Contact Us
 Email us at <a href="mailto:nelc.instructors@gmail.com">nelc.instructors@gmail.com. 
   
-We'd love to help you get involved or hold a workshop for your library organization!
+We'd love to help you get involved with the Carpentries, or hold a workshop for your library organization!
 
 
