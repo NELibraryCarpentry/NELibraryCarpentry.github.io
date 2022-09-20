@@ -8,6 +8,8 @@ We're a group of New England library workers helping build confidence in tech to
 
 ## What is The Carpentries organization? 
 
+The Carpentries teaches foundational coding and data science skills to researchers worldwide. Software Carpentry, Data Carpentry, and Library Carpentry workshops are based on publicly available Carpentries lessons. The Carpentries diverse global community includes Instructors, helpers, Trainers, Maintainers, Mentors, community champions, member organisations, supporters, workshop organisers, the Core Team, and a whole lot more.
+
 Library Carpentry workshops teach people working in library and information-related roles how to:
 * Cut through the jargon terms and phrases of software development and data science and apply concepts from these fields in library tasks
 * Identify and use best practices in data structures
