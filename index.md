@@ -15,9 +15,9 @@ Library Carpentry workshops teach people working in library and information-rela
 * Work effectively with researchers, IT, and systems colleagues
 * Automate repetitive, error prone tasks
 
-We are a New England group of Carpentries-certified instructors, using the Library Carpentries lessons for our workshops: https://librarycarpentry.org
+We are a New England group of Carpentries-certified instructors, using the Library Carpentries lessons for our workshops: <a href="https://librarycarpentry.org">https://librarycarpentry.org</a>
 
-We were formed by a grant from The Carpentries: https://carpentries.org
+We were formed by a grant from The Carpentries: <a href="https://carpentries.org">https://carpentries.org</a>
 
 ## Upcoming Workshops
 We do not currently have a workshop scheduled. Contact us to schedule one for your organization today! 
@@ -40,7 +40,7 @@ We do not currently have a workshop scheduled. Contact us to schedule one for yo
 * SQL	
 * Tidy Data
 
-You can view all of the Library Carpentry lessons, as well as the lesson materials, here: https://librarycarpentry.org/lessons
+You can view all of the Library Carpentry lessons, as well as the lesson materials, here: <a href="https://librarycarpentry.org/lessons">https://librarycarpentry.org/lessons</a>
 
 ## Who are we?
 
