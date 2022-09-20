@@ -1,2 +1,2 @@
-# NELibraryCarpentry.github.io
-Official website for the NE Library Carpentry
+# NELC.github.io
+Official website for the NE Library Carpentry Group
