@@ -57,5 +57,11 @@ You can view all of the Library Carpentry lessons, as well as the lesson materia
 Email us at <a href="mailto:nelc.instructors@gmail.com">nelc.instructors@gmail.com. 
   
 We'd love to help you get involved with the Carpentries, or hold a workshop for your library organization!
+  
+## Updates Planned
+Updates planned for this website include:
+* What we're working on in the Carpentries community
+* Meme repository/album
+* Slack channels to stay in touch
 
 
